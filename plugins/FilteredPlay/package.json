@@ -1,0 +1,11 @@
+{
+	"name": "@ethansklar/filtered-play",
+	"description": "When a playlist or your Liked tracks are filtered, play only the tracks that match the filter instead of the whole list.",
+	"homepage": "https://github.com/YOUR_GITHUB_USERNAME/tidaluna-filtered-play",
+	"author": {
+		"name": "Ethan Sklar",
+		"url": "https://github.com/YOUR_GITHUB_USERNAME"
+	},
+	"main": "./src/index.ts",
+	"type": "module"
+}
